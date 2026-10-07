@@ -1,0 +1,30 @@
+# ---- Java / Spring Boot ----
+backend/target/
+*.class
+*.jar
+*.war
+
+# ---- Node / React (frontend Vite) ----
+node_modules/
+frontend/node_modules/
+frontend/dist/
+npm-debug.log*
+
+# ---- Python ----
+video-python/venv/
+video-python/__pycache__/
+*.pyc
+
+# ---- IDE ----
+.idea/
+.vscode/
+*.iml
+
+# ---- OS ----
+.DS_Store
+Thumbs.db
+
+# ---- Environnement ----
+.env
+*.log
+uploads/

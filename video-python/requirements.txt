@@ -1,0 +1,5 @@
+flask==3.0.3
+moviepy==1.0.3
+gTTS==2.5.1
+Pillow==10.4.0
+numpy==1.26.4
