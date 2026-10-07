@@ -6,6 +6,8 @@ Application de capture d'écran et d'annotation vidéo, composée de trois modul
 - **frontend/** — Interface React (Vite + Tailwind CSS) : tableau de bord, arborescence des menus, éditeur vidéo.
 - **video-python/** — Microservice Python : traitement et génération des vidéos.
 
+# demo
+https://streamable.com/zqweqj
 
 ## Structure du projet
 
